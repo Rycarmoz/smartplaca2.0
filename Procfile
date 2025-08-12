@@ -1,1 +1,1 @@
-web: gunicorn SmartplacaFINALIZADO:app
+web: gunicorn app:app
